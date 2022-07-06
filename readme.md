@@ -6,7 +6,7 @@
      </a>
 </p>
 
-# Stats
+#
 ![views](https://komarev.com/ghpvc/?username=vikkardev&color=lightgrey) <br>
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikkardev&layout=compact&theme=dark) </br>
 ![stats](https://github-readme-stats.vercel.app/api?username=vikkardev&show_icons=true&theme=dark)
